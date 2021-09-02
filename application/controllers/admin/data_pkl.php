@@ -13,4 +13,3 @@ class Data_pkl extends CI_Controller{
 
 	}
 } 
-?>
