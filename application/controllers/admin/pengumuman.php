@@ -1,2 +1,3 @@
 <?php
-$nama = 'alif';
+$nama = 'Alifuddin';
+$udin = 'uye';
