@@ -34,9 +34,9 @@
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="<?php echo base_url('admin/invoice') ?>">
+                <a class="nav-link" href="<?php echo base_url('admin/data_anggota') ?>">
                     <i class="fas fa-fw fa-table"></i>
-                    <span>Invoice</span></a>
+                    <span>Data Struktur Kepengurusan</span></a>
             </li>
 
             <li class="nav-item">
