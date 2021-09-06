@@ -3,7 +3,7 @@
 class Data_pkl extends CI_Controller{
 	public function index()
 	{
-		$data['data_pkl'] = $this->model_data_pkl->tampil_data()->result();
+		$data['datapkl'] = $this->model_data_pkl->tampil_data()->result();
 		// echo print_r($data);
 		// $data['barang'] = $this->model_barang->tampil_data()->result();
 		$this->load->view("templates_admin/header");
